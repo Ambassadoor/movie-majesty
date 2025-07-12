@@ -39,4 +39,12 @@
     font-family: 'Papyrus';
 }
 
-.
+body {
+    background-color: black;
+}
+
+header h1 {
+    font-size: 52px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
